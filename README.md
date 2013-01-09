@@ -9,6 +9,16 @@ With GroupDocs Assembly plugin you can work with [contract management software] 
 
 	1. To install: textpattern > admin > plugins
 	2. Paste the text-code (at .txt file) into the 'Install plugin' box
+	
+###Plugin using description.
+
+1. Go to the Content > write and you will see a GroupDocs button below the Title textfield.
+
+2. Click on the button and put file ID that you can get from your GroupDocs account.
+
+3. After that Iframe tag will be pasted to the body textarea.
+
+4. Click publish button and click on view button near title fild to see the page.
 
 ###ChangeLog
 2012-12-06
