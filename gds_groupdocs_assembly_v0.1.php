@@ -81,12 +81,12 @@ function gds_javascript(){
 
             // Enter GroupDocs Composer ID
             var cmsName = "Textpattern"
-            var cmsVersion = "4.5.2"
+            var cmsVersion = "1.0"
             var ans=prompt("Enter GroupDocs Composer ID:","");
             if(ans.length<30) { alert("Sorry, but this Composer ID is too short"); return false; }
             if(ans.length>70) { alert("Sorry, but this Composer ID is too big"); return false; }
 
-            var gds_iframe = \'<iframe src="http://dev-apps.groupdocs.com/assembly2/questionnaire-assembly/\'+ans+\'?&referer=\'+cmsName+\'/\'+cmsVersion+\'" frameborder="0" width="600" height="400"></iframe>\';
+            var gds_iframe = \'<iframe src="https://apps.groupdocs.com/assembly2/questionnaire-assembly/\'+ans+\'?&referer=\'+cmsName+\'/\'+cmsVersion+\'" frameborder="0" width="600" height="400"></iframe>\';
 
             // insert in the end of <textarea id="body">
             var gds_body = $("textarea#body").html()+gds_iframe;
