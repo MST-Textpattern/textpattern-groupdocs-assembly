@@ -18,7 +18,7 @@ $plugin['name'] = 'gds_groupdocs_assembly';
 # $plugin['allow_html_help'] = 1;
 
 $plugin['version'] = '0.1';
-$plugin['author'] = 'Pavel Teplitskiy';
+$plugin['author'] = ' GroupDocs Marketplace Team';
 $plugin['author_uri'] = 'groupdocs.com';
 $plugin['description'] = 'GroupDocs is a next generation Document Management solution that makes it easier for businesses to collaborate, share and work with documents online. So, organise, view, annotate, compare, assemble and share all your documents with Textpattern';
 
