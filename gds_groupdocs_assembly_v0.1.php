@@ -86,7 +86,7 @@ function gds_javascript(){
             if(ans.length<30) { alert("Sorry, but this Composer ID is too short"); return false; }
             if(ans.length>70) { alert("Sorry, but this Composer ID is too big"); return false; }
 
-            var gds_iframe = \'<iframe src="https://apps.groupdocs.com/assembly2/questionnaire-assembly/\'+ans+\'?&referer=\'+cmsName+\'/\'+cmsVersion+\'" frameborder="0" width="600" height="400"></iframe>\';
+            var gds_iframe = \'<iframe src="https://apps.groupdocs.com/assembly2/questionnaire-assembly/\'+ans+\'?&referer=\'+cmsName+\'-Assembly/\'+cmsVersion+\'" frameborder="0" width="600" height="400">If you can see this text, your browser does not support iframes. Please enable iframe support in your browser or use the latest version of any popular web browsers such as Mozilla Firefox or Google Chrome. Check out more details about GroupDocs <a href="http://groupdocs.com/apps/assembly">automated document generation</a> service.</iframe>\';
 
             // insert in the end of <textarea id="body">
             var gds_body = $("textarea#body").html()+gds_iframe;
