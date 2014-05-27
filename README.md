@@ -3,7 +3,7 @@
 
 GroupDocs assembly plugin for Textpattern
 
-With GroupDocs Assembly plugin you can work with [contract management software] (http://groupdocs.com/apps/Assembly) directly from within your TextPattern CMS. 
+With GroupDocs Assembly plugin you can work with [contract management software] (http://groupdocs.com/apps/assembly) directly from within your TextPattern CMS. 
 
 Collect data and create new documents online by embedding GroupDocs Assembly questionnaires into your site. The GroupDocs Assembly TextPattern plugin lets you collect data to automatically create new documents online quickly and easily. 
 
