@@ -31,4 +31,4 @@ Collect data and create new documents online by embedding GroupDocs Assembly que
 * [Download Assembly plugin package here](https://github.com/groupdocs/textpattern-groupdocs-assembly)
 * [Download Assembly plugin from Textpattern CMS website] (http://textpattern.org/plugins/1269/gds_groupdocs_assembly_v01)
 
-###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).
+###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/plugins).
